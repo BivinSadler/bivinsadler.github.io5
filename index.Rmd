@@ -1,9 +1,0 @@
----
-title: "Bivs Website"
-author: "Bivin"
-date: "11/8/2021"
-output: html_document
----
-
-# What's Up!
-## Whamo!
