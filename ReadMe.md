@@ -1,3 +1,3 @@
 # Brand New Github Page!  
 ## Whamo!
-<img src="https://github.com/my_username/xxx/blob/master/image.jpeg" width="1000"/>
+<img src="https://github.com/BivinSadler/bivinsadler.github.io/blob/main/BivinSadler.jpeg" width="1000"/>
