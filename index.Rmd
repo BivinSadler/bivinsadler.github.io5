@@ -6,3 +6,5 @@ output: html_document
 
 # Whamo!
 ## Check out this website!
+
+[Old faithful](https://ddsshiny.shinyapps.io/Unit12OldFaithfulApp/)
